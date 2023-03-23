@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AkashSingh-92=orange)
+![](https://komarev.com/ghpvc/?username=AkashSingh-92&color=orange)
 <!--
 **AkashSingh-92/AkashSingh-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
